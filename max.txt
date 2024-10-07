@@ -1,8 +1,4 @@
 i am a boy name max
-<<<<<<< HEAD
-who have been seen myself fall in love 
-=======
 who have been seen myself fall in love 
 
 new line to add
->>>>>>> branch2

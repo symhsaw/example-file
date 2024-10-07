@@ -1,3 +1,7 @@
 i am a boy 
 
+<<<<<<< HEAD
 do you flyg
+=======
+do you dance 
+>>>>>>> practice
